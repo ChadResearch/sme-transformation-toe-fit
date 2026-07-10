@@ -11,3 +11,4 @@ docs/**/.DS_Store
 
 # Keep .gitignore itself
 !.gitignore
+.Rproj.user
