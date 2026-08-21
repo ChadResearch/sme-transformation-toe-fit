@@ -2,61 +2,61 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TEMPLATE",
+    "title": "sme-transformation-TOE-fit",
     "section": "",
-    "text": "Project Details\nUpdated in 2021-09-01",
+    "text": "sme-transformation-TOE-fit\nBeyond Linear TOE: How Technology–Environment Congruence Shapes Digital Transformation Training Effectiveness in Korean SMEs\nThis site is the open research notebook for the TOE-Fit study. It documents the research problem, theoretical framework, methodology, and analytical procedure. It is a process record, not a results repository — see Products for the disclosure policy on findings.",
     "crumbs": [
-      "Project Details"
+      "sme-transformation-TOE-fit"
     ]
   },
   {
-    "objectID": "index.html#citation",
-    "href": "index.html#citation",
-    "title": "TEMPLATE",
-    "section": "Citation",
-    "text": "Citation",
+    "objectID": "index.html#project-details",
+    "href": "index.html#project-details",
+    "title": "sme-transformation-TOE-fit",
+    "section": "Project Details",
+    "text": "Project Details\n\n\n\n\n\n\n\nItem\nValue\n\n\n\n\nOwner\nChungil (Chad) Chae — Wenzhou-Kean University\n\n\nCo-authors\nDong-Yeol Jeong, Tae Hee Na — Korea Polytechnic University\n\n\nType\nResearch (quantitative, mixed-method)\n\n\nStatus\nRevision pending — Draft v1 complete, internal peer review returned Major Revision\n\n\nCreated\n2026-04-11\n\n\nLast site update\n2026-08-21",
     "crumbs": [
-      "Project Details"
+      "sme-transformation-TOE-fit"
     ]
   },
   {
-    "objectID": "index.html#abstract",
-    "href": "index.html#abstract",
-    "title": "TEMPLATE",
-    "section": "Abstract",
-    "text": "Abstract\n\nHere Abstract",
+    "objectID": "index.html#research-problem",
+    "href": "index.html#research-problem",
+    "title": "sme-transformation-TOE-fit",
+    "section": "Research Problem",
+    "text": "Research Problem\nThe Technology–Organization–Environment (TOE) framework is conventionally applied as a linear additive model: Technology, Organization, and Environment each contribute independently to an adoption or performance outcome. This study asks whether that specification is adequate for explaining digital transformation (DT) training effectiveness in manufacturing SMEs — and whether a nonlinear, congruence-based reading of TOE explains what the linear model cannot.\nThe proposed reinterpretation borrows from Person–Environment (P-E) Fit theory: what matters is not the level of Technology or the level of Environment taken separately, but the fit between them. Where a firm’s DT awareness (T) and its smart-system infrastructure (E) are misaligned in either direction, training is expected to convert poorly into capability.",
     "crumbs": [
-      "Project Details"
+      "sme-transformation-TOE-fit"
     ]
   },
   {
-    "objectID": "index.html#planning",
-    "href": "index.html#planning",
-    "title": "TEMPLATE",
-    "section": "Planning",
-    "text": "Planning\n\nSchedule\n\ntba\n\n\n\nProgress\n\nProgress 1\nProgress 2",
+    "objectID": "index.html#research-questions",
+    "href": "index.html#research-questions",
+    "title": "sme-transformation-TOE-fit",
+    "section": "Research Questions",
+    "text": "Research Questions\n\n\n\n\n\n\n\nRQ\nQuestion\n\n\n\n\nRQ1\nDoes a linear additive TOE model predict DT training effectiveness?\n\n\nRQ2\nDoes a Technology × Environment interaction provide incremental validity over linear main effects?\n\n\nRQ3\nWhat is the shape of the T×E response surface, and where does it reach its optimum?\n\n\nRQ4\nHow does organizational size moderate the T×E relationship?",
     "crumbs": [
-      "Project Details"
+      "sme-transformation-TOE-fit"
     ]
   },
   {
-    "objectID": "index.html#authorship-and-authors",
-    "href": "index.html#authorship-and-authors",
-    "title": "TEMPLATE",
-    "section": "Authorship and Authors",
-    "text": "Authorship and Authors\n\nAuthor Contribution\n\nSupervision: Chungil (Chad) Chae\nProject administration:\n\nChungil (Chad) Chae\n\nConceptualization:\n\nChungil (Chad) Chae\n\nData accusation:\nData curation:\nFormal analysis:\nChungil (Chad) Chae\nInvestigation:\nMethodology:\n\nChungil (Chad) Chae\n\nResources:\nValidation:\nVisualization:\nWriting – original draft:\n\nChungil (Chad) Chae\n\nWriting – review & editing:\n\nChungil (Chad) Chae\n\n\n\n\nAuthors\n\nChungil Chae, Ph.D., M.S.\n\n\n\nchadchae@gmail.com\norcid: 000-0002-7364-1525\nGoogle Scholar\nChae (2024)\n\n\n\n\n\n\nChungil Chae Chae (2024) is an assistant professor in the field of business analytics, with a distinguished track record in organizational behavior, human resource development (HRD), learning, and development. With a prolific publication record that spans various dimensions of HRD and organizational studies, Dr. Chae has made significant contributions to understanding the dynamics of organizational support on knowledge sharing, virtual team leadership, and the structural determinants of HRD research collaboration networks. And his work embodies a deep commitment to enhancing understanding and practices in organizational behavior, HRD, learning, and development. His interdisciplinary research not only contributes to academic discourse but also offers tangible strategies for organizational improvement and individual development.\n\n\n\nAuthor Bio 1\n\n\n\ntba\n\n\nimage or logo\n\n\n\nbio here\n\n\n\n\nAcknowledgement\n\ntba",
+    "objectID": "index.html#pico",
+    "href": "index.html#pico",
+    "title": "sme-transformation-TOE-fit",
+    "section": "PICO",
+    "text": "PICO\n\n\n\n\n\n\n\nElement\nSpecification\n\n\n\n\nP\nKorean manufacturing SMEs (1–300 employees) participating in K-Hitech DT training, n=244\n\n\nI\nT×E congruence — simultaneously high DT awareness and smart-system infrastructure, modelled as an RSM second-order interaction\n\n\nC\nLinear additive TOE path model with T, O, E as independent predictors\n\n\nO\nChange in DT competency from pre- to post-training",
     "crumbs": [
-      "Project Details"
+      "sme-transformation-TOE-fit"
     ]
   },
   {
-    "objectID": "index.html#declearation",
-    "href": "index.html#declearation",
-    "title": "TEMPLATE",
-    "section": "Declearation",
-    "text": "Declearation\n\nIRB\n\n\nFunding\n\n\nAI\n\n\n\n\nChae, C. (2024). Introduction to chad (chungil) chae. https://chadchae.github.io",
+    "objectID": "index.html#how-this-site-is-organized",
+    "href": "index.html#how-this-site-is-organized",
+    "title": "sme-transformation-TOE-fit",
+    "section": "How this site is organized",
+    "text": "How this site is organized\n\nResearch Logs — chronological record of the study, the analysis pipeline, and draft versions\nResearch Note — working ideas, open questions, and the procedures actually followed\nTheoretical Framework — the four theories combined and the hypotheses derived from them\nMethodology and Method — research design, model specifications, data collection, and sample\nLiterature Review — search strategy, research gap, and the verified reference base\nProducts — manuscript status, publication plan, and disclosure policy",
     "crumbs": [
-      "Project Details"
+      "sme-transformation-TOE-fit"
     ]
   },
   {
@@ -64,18 +64,117 @@
     "href": "rl_research_log.html",
     "title": "Research Log",
     "section": "",
-    "text": "xxxx-xx-xx",
+    "text": "2026-08-21\nReverse-chronological record of project events. Entries state what happened and where the artefact lives.",
     "crumbs": [
       "Research Logs",
       "Research Log"
     ]
   },
   {
-    "objectID": "rl_research_log.html#xxxx-xx-xx",
-    "href": "rl_research_log.html#xxxx-xx-xx",
+    "objectID": "rl_research_log.html#section",
+    "href": "rl_research_log.html#section",
     "title": "Research Log",
     "section": "",
-    "text": "entry.",
+    "text": "Full project review conducted. Knowledge base recompiled incrementally; this site populated from template stubs for the first time.\nReview finding: the project has been dormant since 2026-05-20. None of the four CRITICAL peer-review items has been started.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-1",
+    "href": "rl_research_log.html#section-1",
+    "title": "Research Log",
+    "section": "2026-08-20",
+    "text": "2026-08-20\n\nProject work-log folder introduced (docs/13_작업로그/) under the cross-project logging convention.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-2",
+    "href": "rl_research_log.html#section-2",
+    "title": "Research Log",
+    "section": "2026-05-20",
+    "text": "2026-05-20\n\nData collection method document updated. This is the last substantive content change in the project to date.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-3",
+    "href": "rl_research_log.html#section-3",
+    "title": "Research Log",
+    "section": "2026-05-04",
+    "text": "2026-05-04\n\nInternal structured peer review of Draft v1 completed. Five-document package produced: manuscript summary, theoretical-background mapping with citation verification, mixed-methods evaluation framework, full reviewer report, author self-critique.\nRecommendation: Major Revision. Four CRITICAL, six MAJOR, ten MINOR concerns. None fatal; together they prevent the headline claim from being sustained at its current strength.\nCompanion document drafted on the dependent-variable problem, setting out five resolution paths.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-4",
+    "href": "rl_research_log.html#section-4",
+    "title": "Research Log",
+    "section": "2026-05-03",
+    "text": "2026-05-03\n\nDraft v1 (English) assembled — five chapters, 16,759 words.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-5",
+    "href": "rl_research_log.html#section-5",
+    "title": "Research Log",
+    "section": "2026-04-30",
+    "text": "2026-04-30\n\nIntegrated conceptual framework v1.0 produced through the ScholarRAG synthesis pipeline.\nManuscript chapters and cover letters to two target journals finalized.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-6",
+    "href": "rl_research_log.html#section-6",
+    "title": "Research Log",
+    "section": "2026-04-14",
+    "text": "2026-04-14\n\nSupplementary methodological documents produced: RSM time-precedence redesign, lagged panel redesign, TOE causal inference, cross-dimension interaction.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-7",
+    "href": "rl_research_log.html#section-7",
+    "title": "Research Log",
+    "section": "2026-04-11",
+    "text": "2026-04-11\n\nAnalysis declared complete. PICO and WOS search strategy finalized. Knowledge base compiled for the first time.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-8",
+    "href": "rl_research_log.html#section-8",
+    "title": "Research Log",
+    "section": "2026-03-31",
+    "text": "2026-03-31\n\nPhase 3 (response surface analysis) complete. Final synthesis report drafted.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-9",
+    "href": "rl_research_log.html#section-9",
+    "title": "Research Log",
+    "section": "2022–2025",
+    "text": "2022–2025\n\nK-Hitech DT training panel data collected across four annual waves.",
     "crumbs": [
       "Research Logs",
       "Research Log"
@@ -86,18 +185,7 @@
     "href": "rl_meeting_log.html",
     "title": "Meeting Log",
     "section": "",
-    "text": "xxxx-xx-xx",
-    "crumbs": [
-      "Research Logs",
-      "Meeting Log"
-    ]
-  },
-  {
-    "objectID": "rl_meeting_log.html#xxxx-xx-xx",
-    "href": "rl_meeting_log.html#xxxx-xx-xx",
-    "title": "Meeting Log",
-    "section": "",
-    "text": "10:00-10:30: Kick-off meeting",
+    "text": "No formal co-author meeting minutes have been recorded in the project repository to date. Coordination with co-authors (Dong-Yeol Jeong, Tae Hee Na) has taken place outside the documented record.\nStanding item for the next meeting. The internal peer review of 2026-05-04 returned a Major Revision recommendation whose first item changes the study’s dependent variable. That decision is not the lead author’s alone to make, because it determines whether the manuscript can go to the primary target journal at all. The meeting should settle:\n\nWhether K-Hitech administrative records (attendance, module completion, certification) can be obtained through the co-authors’ institutional channels.\nIf not, whether the multi-year subsample is an acceptable basis for an objective outcome measure.\nA revised target submission window, replacing the lapsed 2026-05-30 completion date.",
     "crumbs": [
       "Research Logs",
       "Meeting Log"
@@ -106,45 +194,419 @@
   {
     "objectID": "rl_analysis_version_log.html",
     "href": "rl_analysis_version_log.html",
-    "title": "Analysis Version",
+    "title": "Analysis Version Log",
     "section": "",
-    "text": "Version 0.0.1",
+    "text": "Phase 1 — Exploratory (T0–T9, 13 models)\nThe empirical pipeline ran 36 analytical models across three phases, organized as 22 separate R projects (T0–T22). All analyses were run on R 4.4.0 (Apple Silicon) with set.seed(20260301).\nDescriptive statistics, exploratory factor analysis, hierarchical regression, latent profile analysis, fuzzy-set QCA, longitudinal comparison, structural topic modelling, multiple correspondence analysis, importance–performance analysis, panel random-effects regression, propensity score matching, latent transition analysis.",
     "crumbs": [
       "Research Logs",
-      "Analysis Version"
+      "Analysis Version Log"
     ]
   },
   {
-    "objectID": "rl_analysis_version_log.html#version-0.0.1",
-    "href": "rl_analysis_version_log.html#version-0.0.1",
-    "title": "Analysis Version",
-    "section": "",
-    "text": "Starting draft",
+    "objectID": "rl_analysis_version_log.html#phase-2-causal-and-structural-t10t21-12-models",
+    "href": "rl_analysis_version_log.html#phase-2-causal-and-structural-t10t21-12-models",
+    "title": "Analysis Version Log",
+    "section": "Phase 2 — Causal and structural (T10–T21, 12 models)",
+    "text": "Phase 2 — Causal and structural (T10–T21, 12 models)\nStaggered difference-in-differences, hierarchical regression, mediation, sequential mediation, size moderation with Johnson–Neyman intervals, 2×2 ANOVA, moderated mediation, TOE path SEM, ordinal logistic regression, four-class latent profile analysis, fsQCA combined with DID, cross-lagged panel model.",
     "crumbs": [
       "Research Logs",
-      "Analysis Version"
+      "Analysis Version Log"
+    ]
+  },
+  {
+    "objectID": "rl_analysis_version_log.html#phase-3-nonlinear-response-surface-t22-11-models",
+    "href": "rl_analysis_version_log.html#phase-3-nonlinear-response-surface-t22-11-models",
+    "title": "Analysis Version Log",
+    "section": "Phase 3 — Nonlinear response surface (T22, 11 models)",
+    "text": "Phase 3 — Nonlinear response surface (T22, 11 models)\nBivariate response surface models (combo1–combo5) and multivariate response surface models (A1, A2, B1, B2, C1, C2) under dual TOE and Training-Transfer framings.",
+    "crumbs": [
+      "Research Logs",
+      "Analysis Version Log"
+    ]
+  },
+  {
+    "objectID": "rl_analysis_version_log.html#toolchain",
+    "href": "rl_analysis_version_log.html#toolchain",
+    "title": "Analysis Version Log",
+    "section": "Toolchain",
+    "text": "Toolchain\n\n\n\nComponent\nVersion\n\n\n\n\nR\n4.4.0 (Apple Silicon)\n\n\nrsm\n0.10.6\n\n\nRSA\n0.10.6\n\n\nQCA\n3.23\n\n\nboot\n1.3-30\n\n\nlavaan\n—\n\n\nSeed\n20260301\n\n\n\nInference uses HC3 robust standard errors (Breusch–Pagan p&lt;.001 in 8 of 11 response surface models) and 5,000-sample bootstrap confidence intervals.\n\n\n\n\n\n\nWarningReproducibility note\n\n\n\nAll Draft v1 estimates were produced under the toolchain above. The pending revision requires re-running the response surface pipeline against a different dependent variable. The toolchain must be pinned or re-verified before that run, otherwise differences caused by the DV change cannot be separated from differences caused by environment drift.",
+    "crumbs": [
+      "Research Logs",
+      "Analysis Version Log"
     ]
   },
   {
     "objectID": "rl_draft_version_log.html",
     "href": "rl_draft_version_log.html",
-    "title": "Draft Version",
+    "title": "Draft Version Log",
     "section": "",
-    "text": "Ver 0.0.1",
+    "text": "v1 — 2026-05-03\nChapter files were last modified 2026-04-30 and have not been touched since. No v2 exists.",
     "crumbs": [
       "Research Logs",
-      "Draft Version"
+      "Draft Version Log"
     ]
   },
   {
-    "objectID": "rl_draft_version_log.html#ver-0.0.1",
-    "href": "rl_draft_version_log.html#ver-0.0.1",
-    "title": "Draft Version",
+    "objectID": "rl_draft_version_log.html#v1-2026-05-03",
+    "href": "rl_draft_version_log.html#v1-2026-05-03",
+    "title": "Draft Version Log",
     "section": "",
-    "text": "Starting draft",
+    "text": "Item\nValue\n\n\n\n\nLength\n16,759 words\n\n\nStructure\n5 chapters: Introduction, Literature Review, Method, Findings, Discussion & Conclusion\n\n\nAccompanying\nCover letters to two target journals\n\n\nStatus\nComplete, unrevised\n\n\nReview outcome\nMajor Revision (2026-05-04)",
     "crumbs": [
       "Research Logs",
-      "Draft Version"
+      "Draft Version Log"
+    ]
+  },
+  {
+    "objectID": "rl_draft_version_log.html#planned-v2-not-started",
+    "href": "rl_draft_version_log.html#planned-v2-not-started",
+    "title": "Draft Version Log",
+    "section": "Planned v2 — not started",
+    "text": "Planned v2 — not started\nv2 is blocked on the dependent-variable decision (see Questions and Answers). Because that decision changes what is being measured, every results table, figure, and the Findings and Discussion chapters must be regenerated rather than edited. The two cover letters must also be rewritten: both lean on the measurement-gap argument, which is precisely the claim the revision destabilizes.",
+    "crumbs": [
+      "Research Logs",
+      "Draft Version Log"
+    ]
+  },
+  {
+    "objectID": "rn_ideas_and_thoughts.html",
+    "href": "rn_ideas_and_thoughts.html",
+    "title": "Ideas and Thoughts",
+    "section": "",
+    "text": "The organizing idea\nWorking notes on what the analysis suggested, recorded as interpretation rather than as established result.\nTOE is normally read as three additive levers: improve Technology, improve Organization, improve Environment, and outcomes improve. If that reading is correct, a linear model should recover it. When a linear model recovers nothing, there are two possible conclusions — the framework does not apply here, or the framework applies but the functional form is wrong. This study pursues the second.\nThe candidate functional form comes from P-E Fit theory, where the outcome depends on the correspondence between two dimensions rather than on their levels. Transposed to TOE, this makes T×E congruence the operative mechanism and turns the analysis into a response surface problem rather than a regression-coefficient problem.",
+    "crumbs": [
+      "Research Note",
+      "Ideas and Thoughts"
+    ]
+  },
+  {
+    "objectID": "rn_ideas_and_thoughts.html#five-cross-cutting-patterns",
+    "href": "rn_ideas_and_thoughts.html#five-cross-cutting-patterns",
+    "title": "Ideas and Thoughts",
+    "section": "Five cross-cutting patterns",
+    "text": "Five cross-cutting patterns\nRecurring across the 36 models:\n\nAwareness–performance disconnect. Awareness alone does not track outcomes; its effect appears to be conditional on infrastructure.\nResource paradox. More resources do not monotonically improve outcomes; the relationship with firm size reverses beyond a point.\nLinear null, nonlinear recovery. The same data that yield nothing under an additive specification yield structure under a second-order one.\nDose–response separation. Training appears to build awareness and infrastructure, yet the self-reported competency measure does not register the change proportionally.\nEquifinality. Configurational analysis recovers more than one sufficient route to high training effectiveness, which an average-effects model cannot represent.",
+    "crumbs": [
+      "Research Note",
+      "Ideas and Thoughts"
+    ]
+  },
+  {
+    "objectID": "rn_ideas_and_thoughts.html#where-this-could-go-wrong",
+    "href": "rn_ideas_and_thoughts.html#where-this-could-go-wrong",
+    "title": "Ideas and Thoughts",
+    "section": "Where this could go wrong",
+    "text": "Where this could go wrong\nThe uncomfortable observation, recorded here because it drove the peer review: the study’s own argument is that a single self-report item under-captures training effects — and the single self-report item is what every nonlinear estimate is built on. If that instrument is unreliable enough to justify the argument, it is unreliable enough to undermine the estimates that make the argument. This is not a limitation to be noted in a final section; it is a design problem that has to be resolved before the claims can stand.",
+    "crumbs": [
+      "Research Note",
+      "Ideas and Thoughts"
+    ]
+  },
+  {
+    "objectID": "rn_ideas_and_thoughts.html#possible-spin-off",
+    "href": "rn_ideas_and_thoughts.html#possible-spin-off",
+    "title": "Ideas and Thoughts",
+    "section": "Possible spin-off",
+    "text": "Possible spin-off\nThe time-precedence work produced six alternative designs, one of which — modelling how the optimum point on the response surface moves over time rather than treating it as fixed — is a methodological contribution in its own right and does not depend on this study’s substantive claims.",
+    "crumbs": [
+      "Research Note",
+      "Ideas and Thoughts"
+    ]
+  },
+  {
+    "objectID": "rn_questions_and_answers.html",
+    "href": "rn_questions_and_answers.html",
+    "title": "Questions and Answers",
+    "section": "",
+    "text": "Q1. Does the central finding survive an objective outcome measure?\nOpen questions carried by the project, in priority order. These are unresolved; answers are recorded when they arrive.\nStatus: unanswered — this is the blocking question.\nThe headline results rest on a single self-report item that is also the object of the study’s own measurement critique. Three outcomes are possible: the objective and self-report measures converge, giving the strongest available evidence; the objective measure is stronger, supporting the measurement-gap argument; or the objective measure returns nothing, in which case the finding is a common-method artefact and the paper must be reconstructed. Resolution paths were drafted on 2026-05-04; none has been executed.",
+    "crumbs": [
+      "Research Note",
+      "Questions and Answers"
+    ]
+  },
+  {
+    "objectID": "rn_questions_and_answers.html#q2.-can-the-panel-dependent-methods-be-re-estimated-on-the-true-panel",
+    "href": "rn_questions_and_answers.html#q2.-can-the-panel-dependent-methods-be-re-estimated-on-the-true-panel",
+    "title": "Questions and Answers",
+    "section": "Q2. Can the panel-dependent methods be re-estimated on the true panel?",
+    "text": "Q2. Can the panel-dependent methods be re-estimated on the true panel?\nStatus: unanswered.\nOf 219 firms, 171 appear in only one wave. Two of the five triangulating methods assume genuine panel structure and therefore need to be restricted to the subset of firms observed in more than one year. Whether that subset retains sufficient power is not yet tested. Year fixed effects do not substitute for firm fixed effects on single-wave cohorts.",
+    "crumbs": [
+      "Research Note",
+      "Questions and Answers"
+    ]
+  },
+  {
+    "objectID": "rn_questions_and_answers.html#q3.-what-survives-multiple-comparison-correction",
+    "href": "rn_questions_and_answers.html#q3.-what-survives-multiple-comparison-correction",
+    "title": "Questions and Answers",
+    "section": "Q3. What survives multiple-comparison correction?",
+    "text": "Q3. What survives multiple-comparison correction?\nStatus: partially answered.\nWith eight hypotheses evaluated across 36 models, family-wise error is a real risk. Under a corrected threshold the claim becomes narrower and must be restated as such. The fix is re-tabulation and an explicit confirmatory/exploratory split, not re-analysis — which is why it is sequenced last despite being straightforward.",
+    "crumbs": [
+      "Research Note",
+      "Questions and Answers"
+    ]
+  },
+  {
+    "objectID": "rn_questions_and_answers.html#q4.-does-the-interaction-survive-a-proper-common-method-variance-diagnostic",
+    "href": "rn_questions_and_answers.html#q4.-does-the-interaction-survive-a-proper-common-method-variance-diagnostic",
+    "title": "Questions and Answers",
+    "section": "Q4. Does the interaction survive a proper common-method-variance diagnostic?",
+    "text": "Q4. Does the interaction survive a proper common-method-variance diagnostic?\nStatus: unanswered.\nThe draft cites a single-factor test as its CMV diagnostic. The methodological standard explicitly recommends against relying on that test alone. A latent method factor approach is required, and CMV belongs in Methods rather than Limitations.",
+    "crumbs": [
+      "Research Note",
+      "Questions and Answers"
+    ]
+  },
+  {
+    "objectID": "rn_questions_and_answers.html#q5.-is-the-contribution-a-theoretical-extension-or-a-methodological-one",
+    "href": "rn_questions_and_answers.html#q5.-is-the-contribution-a-theoretical-extension-or-a-methodological-one",
+    "title": "Questions and Answers",
+    "section": "Q5. Is the contribution a theoretical extension or a methodological one?",
+    "text": "Q5. Is the contribution a theoretical extension or a methodological one?\nStatus: unresolved framing question.\nThe draft claims an organizational-level extension of a person-level theory in one section while defending the work as a methodological extension elsewhere. These cannot both stand. Resolving it means engaging the organizational-level alternatives — complementarity theory, dynamic capabilities, resource-based reasoning — rather than asserting novelty.",
+    "crumbs": [
+      "Research Note",
+      "Questions and Answers"
+    ]
+  },
+  {
+    "objectID": "rn_questions_and_answers.html#q6.-how-many-theories-should-the-discussion-actually-integrate",
+    "href": "rn_questions_and_answers.html#q6.-how-many-theories-should-the-discussion-actually-integrate",
+    "title": "Questions and Answers",
+    "section": "Q6. How many theories should the discussion actually integrate?",
+    "text": "Q6. How many theories should the discussion actually integrate?\nStatus: answered — fewer.\nThe draft’s discussion invokes sixteen frameworks. The review’s judgement, accepted here, is that four or five carry the argument and the rest should be citations rather than integrations.",
+    "crumbs": [
+      "Research Note",
+      "Questions and Answers"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html",
+    "href": "rn_procedures.html",
+    "title": "Procedures",
+    "section": "",
+    "text": "1. Research setup\nThe procedure actually followed, in sequence.\nResearch problem, PICO specification, and research questions defined. Target population fixed as manufacturing SMEs enrolled in the K-Hitech DT training programme.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#literature-search",
+    "href": "rn_procedures.html#literature-search",
+    "title": "Procedures",
+    "section": "2. Literature search",
+    "text": "2. Literature search\nSix Web of Science search blocks constructed around four intersecting domains, with intersection queries used to isolate the focal set. Screening follows PRISMA. See Searching and Inclusion & Exclusion.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#synthesis",
+    "href": "rn_procedures.html#synthesis",
+    "title": "Procedures",
+    "section": "3. Synthesis",
+    "text": "3. Synthesis\nRetrieved literature processed through ScholarRAG, a staged review-automation pipeline, in systematic-review mode. Output: the integrated conceptual framework v1.0.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#data-preparation",
+    "href": "rn_procedures.html#data-preparation",
+    "title": "Procedures",
+    "section": "4. Data preparation",
+    "text": "4. Data preparation\nRaw responses screened for missingness; the missingness mechanism tested before deletion. Constructs assembled and reliability assessed. See Data.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#sequential-model-estimation",
+    "href": "rn_procedures.html#sequential-model-estimation",
+    "title": "Procedures",
+    "section": "5. Sequential model estimation",
+    "text": "5. Sequential model estimation\nThree nested specifications estimated in order — linear main effects, first-order interactions, then second-order curvature — so that each addition can be tested incrementally rather than asserted. See Method.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#response-surface-analysis",
+    "href": "rn_procedures.html#response-surface-analysis",
+    "title": "Procedures",
+    "section": "6. Response surface analysis",
+    "text": "6. Response surface analysis\nSurface statistics computed under the Edwards (2002) protocol; the stationary point located and bootstrapped for confidence intervals.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#configurational-analysis",
+    "href": "rn_procedures.html#configurational-analysis",
+    "title": "Procedures",
+    "section": "7. Configurational analysis",
+    "text": "7. Configurational analysis\nFuzzy-set QCA run on the upper quartile of the outcome, with theoretically anchored calibration and a sensitivity re-run at a stricter consistency cutoff.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#triangulation",
+    "href": "rn_procedures.html#triangulation",
+    "title": "Procedures",
+    "section": "8. Triangulation",
+    "text": "8. Triangulation\nFive methods applied to the same substantive question so that agreement or disagreement between them is informative rather than assumed.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#drafting",
+    "href": "rn_procedures.html#drafting",
+    "title": "Procedures",
+    "section": "9. Drafting",
+    "text": "9. Drafting\nFive-chapter manuscript assembled, with cover letters to the two highest-ranked target journals.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#internal-peer-review",
+    "href": "rn_procedures.html#internal-peer-review",
+    "title": "Procedures",
+    "section": "10. Internal peer review",
+    "text": "10. Internal peer review\nStructured review conducted against the draft, producing a five-document package and a Major Revision recommendation.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#revision-pending",
+    "href": "rn_procedures.html#revision-pending",
+    "title": "Procedures",
+    "section": "11. Revision — pending",
+    "text": "11. Revision — pending\nNot started. The revision sequence is fixed by dependency: the dependent-variable decision comes first because it determines every downstream estimate; the panel restriction and the common-method diagnostic follow; multiple-comparison correction is last because it is re-tabulation rather than re-analysis.",
+    "crumbs": [
+      "Research Note",
+      "Procedures"
+    ]
+  },
+  {
+    "objectID": "tf_related_theories.html",
+    "href": "tf_related_theories.html",
+    "title": "Related Theories",
+    "section": "",
+    "text": "Core frameworks",
+    "crumbs": [
+      "Theoritical Framework",
+      "Related Theories"
+    ]
+  },
+  {
+    "objectID": "tf_related_theories.html#core-frameworks",
+    "href": "tf_related_theories.html#core-frameworks",
+    "title": "Related Theories",
+    "section": "",
+    "text": "Theory\nSource\nRole in this study\n\n\n\n\nTechnology–Organization–Environment\nTornatzky & Fleischer (1990)\nThe foundational frame, reinterpreted here in nonlinear form rather than replaced\n\n\nPerson–Environment Fit\nEdwards (1994); Edwards & Cable (2009)\nSupplies the congruence logic and the polynomial operationalization\n\n\nSociotechnical Systems\nTrist & Bamforth (1951)\nGrounds the claim that technical and social subsystems must be jointly optimized\n\n\nConfigurational Equifinality\nRagin (2008)\nJustifies treating multiple routes to the same outcome as substantive rather than noise",
+    "crumbs": [
+      "Theoritical Framework",
+      "Related Theories"
+    ]
+  },
+  {
+    "objectID": "tf_related_theories.html#supporting-extensions",
+    "href": "tf_related_theories.html#supporting-extensions",
+    "title": "Related Theories",
+    "section": "Supporting extensions",
+    "text": "Supporting extensions\n\n\n\n\n\n\n\n\nTheory\nSource\nRole\n\n\n\n\nLiability of Smallness\nAldrich & Auster (1986)\nExplains attenuation at the small-firm end of the size distribution\n\n\nOptimal Distinctiveness\nBrewer (1991)\nMotivates an interior optimum rather than a monotonic size effect\n\n\nAMO framework\nAppelbaum et al. (2000)\nDecomposes training effectiveness into ability, motivation, and opportunity\n\n\nAbsorptive Capacity\nCohen & Levinthal (1990)\nPrior-knowledge constraint on assimilating new technology\n\n\nOrganizational Inertia\nHannan & Freeman (1984)\nStructural resistance at the larger-firm end\n\n\nTraining Transfer\nBaldwin & Ford (1988)\nAlternative framing of the outcome as transfer rather than adoption\n\n\nDynamic Capabilities\nTeece, Pisano & Shuen (1997)\nOrganizational-level alternative to be engaged, not assumed away",
+    "crumbs": [
+      "Theoritical Framework",
+      "Related Theories"
+    ]
+  },
+  {
+    "objectID": "tf_related_theories.html#methodological-canon",
+    "href": "tf_related_theories.html#methodological-canon",
+    "title": "Related Theories",
+    "section": "Methodological canon",
+    "text": "Methodological canon\n\n\n\n\n\n\n\nContribution\nSource\n\n\n\n\nSecond-order response surface\nBox & Wilson (1951)\n\n\nResponse surface analysis for congruence\nEdwards & Parry (1993); Edwards (2002)\n\n\nRSA reporting standards\nShanock et al. (2010)\n\n\nCommon-method variance standards\nPodsakoff, MacKenzie, Lee & Podsakoff (2003)\n\n\nUnmeasured latent method factor\nWilliams, Hartman & Cavazotte (2010)\n\n\nfsQCA standards\nSchneider & Wagemann (2012); Greckhamer et al. (2018)\n\n\nDigital transformation definition\nVial (2019)",
+    "crumbs": [
+      "Theoritical Framework",
+      "Related Theories"
+    ]
+  },
+  {
+    "objectID": "tf_relationship_between_theories.html",
+    "href": "tf_relationship_between_theories.html",
+    "title": "Relationship Between Theories",
+    "section": "",
+    "text": "TOE supplies the dimensions, not the functional form\nThe four core frameworks are not stacked as parallel justifications. Each answers a different question, and the answers chain.\nTOE identifies what matters — technological, organizational, and environmental context — but it does not specify how those contexts combine. The conventional additive reading is a modelling convention that the framework itself does not require. This leaves room to keep TOE’s dimensions while replacing its functional form, which is what this study does.",
+    "crumbs": [
+      "Theoritical Framework",
+      "Relationship Between Theories"
+    ]
+  },
+  {
+    "objectID": "tf_relationship_between_theories.html#p-e-fit-supplies-the-functional-form",
+    "href": "tf_relationship_between_theories.html#p-e-fit-supplies-the-functional-form",
+    "title": "Relationship Between Theories",
+    "section": "P-E Fit supplies the functional form",
+    "text": "P-E Fit supplies the functional form\nP-E Fit theory holds that outcomes depend on correspondence between two dimensions, and that misfit in either direction is costly. It also arrives with an established estimation protocol: polynomial regression with surface statistics, rather than difference scores. Applying that protocol to the T and E dimensions of TOE converts a vague claim about “alignment” into a testable surface geometry with named coefficients and directional predictions.",
+    "crumbs": [
+      "Theoritical Framework",
+      "Relationship Between Theories"
+    ]
+  },
+  {
+    "objectID": "tf_relationship_between_theories.html#sociotechnical-systems-explains-why-fit-should-matter-here",
+    "href": "tf_relationship_between_theories.html#sociotechnical-systems-explains-why-fit-should-matter-here",
+    "title": "Relationship Between Theories",
+    "section": "Sociotechnical Systems explains why fit should matter here",
+    "text": "Sociotechnical Systems explains why fit should matter here\nP-E Fit explains how to model congruence but not why congruence should govern this particular outcome. Sociotechnical theory does: technical and social subsystems must be jointly optimized, and optimizing one alone degrades the whole. Awareness without infrastructure, and infrastructure without awareness, are the two failure modes that this predicts — which is exactly the incongruence penalty the surface analysis is built to detect.",
+    "crumbs": [
+      "Theoritical Framework",
+      "Relationship Between Theories"
+    ]
+  },
+  {
+    "objectID": "tf_relationship_between_theories.html#configurational-equifinality-explains-what-a-surface-cannot-show",
+    "href": "tf_relationship_between_theories.html#configurational-equifinality-explains-what-a-surface-cannot-show",
+    "title": "Relationship Between Theories",
+    "section": "Configurational Equifinality explains what a surface cannot show",
+    "text": "Configurational Equifinality explains what a surface cannot show\nA response surface describes one continuous function with a single optimum. It cannot represent the possibility that structurally different firms reach high effectiveness by different routes. Configurational analysis can. The two are therefore complementary rather than competing: the surface characterizes the average geometry, the configurational analysis characterizes the discrete routes through it.",
+    "crumbs": [
+      "Theoritical Framework",
+      "Relationship Between Theories"
+    ]
+  },
+  {
+    "objectID": "tf_relationship_between_theories.html#the-chain-stated-compactly",
+    "href": "tf_relationship_between_theories.html#the-chain-stated-compactly",
+    "title": "Relationship Between Theories",
+    "section": "The chain, stated compactly",
+    "text": "The chain, stated compactly\nTOE fixes the dimensions → Sociotechnical Systems argues that those dimensions must be jointly optimized → P-E Fit provides the estimator for joint optimization → Configurational Equifinality recovers the multiple routes that a single estimated surface averages over.",
+    "crumbs": [
+      "Theoritical Framework",
+      "Relationship Between Theories"
+    ]
+  },
+  {
+    "objectID": "tf_relationship_between_theories.html#where-the-framing-is-still-contested",
+    "href": "tf_relationship_between_theories.html#where-the-framing-is-still-contested",
+    "title": "Relationship Between Theories",
+    "section": "Where the framing is still contested",
+    "text": "Where the framing is still contested\nTransposing P-E Fit from the individual to the firm–environment level is a real move, not a notational one, and the draft has not yet settled whether it claims that as a theoretical extension or as a methodological application. Organizational-level theories of complementarity and dynamic capabilities make overlapping predictions and must be engaged rather than bypassed. This is an open item — see Questions and Answers.",
+    "crumbs": [
+      "Theoritical Framework",
+      "Relationship Between Theories"
     ]
   },
   {
@@ -152,10 +614,285 @@
     "href": "tf_theoretical_framework.html",
     "title": "Theoritical Framework",
     "section": "",
-    "text": "Hypothesis",
+    "text": "Structure\nThe framework retains TOE’s three dimensions but replaces the additive combination rule with a congruence rule on the Technology–Environment pair, with Organization entering as a moderator whose effect is expected to be non-monotonic.",
     "crumbs": [
       "Theoritical Framework",
       "Theoritical Framework"
+    ]
+  },
+  {
+    "objectID": "tf_theoretical_framework.html#structure",
+    "href": "tf_theoretical_framework.html#structure",
+    "title": "Theoritical Framework",
+    "section": "",
+    "text": "T — digital transformation awareness within the firm\nE — smart-system infrastructure available to the firm\nO — organizational size\nOutcome — change in DT competency from pre- to post-training",
+    "crumbs": [
+      "Theoritical Framework",
+      "Theoritical Framework"
+    ]
+  },
+  {
+    "objectID": "tf_theoretical_framework.html#hypothesis",
+    "href": "tf_theoretical_framework.html#hypothesis",
+    "title": "Theoritical Framework",
+    "section": "Hypothesis",
+    "text": "Hypothesis\n\n\n\n\n\n\n\nH\nStatement\n\n\n\n\nH1\nA linear additive TOE specification fails to predict DT training effectiveness.\n\n\nH2\nA Technology × Environment interaction adds explanatory power beyond linear main effects.\n\n\nH3\nThe T×E response surface exhibits a ridge along the congruence line and an asymmetric penalty for incongruence.\n\n\nH4\nOrganizational size moderates training effectiveness in an inverted-U pattern, with an interior optimum.\n\n\nH4a\nAt the small-firm end, effectiveness is attenuated by resource constraints (liability of smallness).\n\n\nH4b\nAt the large-firm end, effectiveness is attenuated by a ceiling effect.\n\n\nH5\nTraining causally increases infrastructure and awareness.\n\n\nH6\nA single self-report outcome measure captures substantially less of the training effect than an objective outcome measure.\n\n\nH7\nMore than one configuration of conditions is sufficient for high training effectiveness (equifinality).\n\n\nH8\nA compensation path exists in which strong infrastructure substitutes for weak awareness.",
+    "crumbs": [
+      "Theoritical Framework",
+      "Theoritical Framework"
+    ]
+  },
+  {
+    "objectID": "tf_theoretical_framework.html#surface-predictions",
+    "href": "tf_theoretical_framework.html#surface-predictions",
+    "title": "Theoritical Framework",
+    "section": "Surface predictions",
+    "text": "Surface predictions\nUnder the Edwards (2002) parameterization, the P-E Fit reading of TOE makes directional predictions about the surface statistics rather than about individual regression coefficients:\n\n\n\n\n\n\n\n\nStatistic\nMeaning\nPrediction\n\n\n\n\na1\nSlope along the congruence line\nNot the primary claim; may be near zero\n\n\na2\nCurvature along the congruence line\nNon-zero, indicating an optimum exists rather than a monotonic gain\n\n\na3\nAsymmetry between the two directions of misfit\nNon-zero if one failure mode is worse than the other\n\n\na4\nCurvature along the incongruence line\nNegative — the signature prediction. Misfit in either direction imposes a penalty\n\n\n\na4 is the hypothesis that distinguishes this framework from a conventional interaction model. An interaction term alone shows that T and E are non-additive; a negative a4 shows that the non-additivity takes the specific form P-E Fit predicts.\n\n\n\n\n\n\nNoteEstimation status\n\n\n\nAll hypotheses were evaluated against Draft v1 and are being re-evaluated under the pending revision, which changes the outcome measure. Estimates are therefore not reproduced here — see Products.",
+    "crumbs": [
+      "Theoritical Framework",
+      "Theoritical Framework"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html",
+    "href": "mm_methodology.html",
+    "title": "Methodology",
+    "section": "",
+    "text": "Stance\nThe study is quantitative and explanatory, organized around a single methodological commitment: a null result under one functional form is not evidence of absence, it is evidence about that functional form. The design is therefore comparative across specifications rather than confirmatory within one.",
+    "crumbs": [
+      "Methodology and Method",
+      "Methodology"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#design",
+    "href": "mm_methodology.html#design",
+    "title": "Methodology",
+    "section": "Design",
+    "text": "Design\nRepeated cross-section over four annual waves, drawn from a government DT training programme. The data are administrative in origin rather than researcher-solicited, which strengthens coverage and weakens control over instrumentation — a trade-off that shapes the study’s central open problem.",
+    "crumbs": [
+      "Methodology and Method",
+      "Methodology"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#analytical-strategy",
+    "href": "mm_methodology.html#analytical-strategy",
+    "title": "Methodology",
+    "section": "Analytical strategy",
+    "text": "Analytical strategy\nThree nested specifications estimated in sequence, so that each addition is tested rather than assumed:\nStep 1 (M_main):  Y = b0 + b1*T + b2*E + b3*O + b4*EDU + year_dummies + e\nStep 2 (M_m7):    + b5*(T x E) + b6*(T x O) + b7*(E x O)\nStep 3 (M_rsm):   + b8*T^2 + b9*E^2 + b10*O^2          &lt;- main model\nIncremental F-tests between steps establish whether each layer of complexity earns its place. The second-order step is required not because it maximizes fit but because surface interpretation is undefined without full curvature terms.",
+    "crumbs": [
+      "Methodology and Method",
+      "Methodology"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#triangulation",
+    "href": "mm_methodology.html#triangulation",
+    "title": "Methodology",
+    "section": "Triangulation",
+    "text": "Triangulation\nFive methods are applied to the same substantive question so that convergence or divergence between them is itself evidence:\n\n\n\n\n\n\n\n\nMethod\nApproach\nWhat it identifies\n\n\n\n\nPaired comparison\npre versus post\nwithin-respondent change\n\n\nPropensity score matching\nmatched comparison\nselection into training\n\n\nStaggered difference-in-differences\npre-post by cohort\nwithin-firm change\n\n\nCross-lagged panel model\nt1 to t2 cross-lag\ntemporal ordering\n\n\nResponse surface analysis\nsecond-order surface\nfunctional form\n\n\n\n\n\n\n\n\n\nImportantKnown design limitation under revision\n\n\n\nTwo of these five methods assume genuine panel structure, and most firms appear in only one wave. The pending revision restricts those two methods to the subset of firms observed in multiple years. Year fixed effects do not substitute for firm fixed effects on single-wave cohorts.",
+    "crumbs": [
+      "Methodology and Method",
+      "Methodology"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#inference",
+    "href": "mm_methodology.html#inference",
+    "title": "Methodology",
+    "section": "Inference",
+    "text": "Inference\nHeteroskedasticity-consistent (HC3) standard errors throughout; bootstrap confidence intervals for derived quantities that have no closed-form standard error, including the location of the surface stationary point.",
+    "crumbs": [
+      "Methodology and Method",
+      "Methodology"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#causal-claims",
+    "href": "mm_methodology.html#causal-claims",
+    "title": "Methodology",
+    "section": "Causal claims",
+    "text": "Causal claims\nThe response surface analysis is cross-sectional and supports associational claims only. Six alternative designs that would establish time precedence have been drafted — lagged, difference-based, cross-lagged, time-varying, growth-curve, and dynamic-optimum specifications. The first of these is the intended addition to the robustness section; the last is a potential methodological paper in its own right.",
+    "crumbs": [
+      "Methodology and Method",
+      "Methodology"
+    ]
+  },
+  {
+    "objectID": "mm_method.html",
+    "href": "mm_method.html",
+    "title": "Method",
+    "section": "",
+    "text": "Response surface analysis\nSurface statistics are computed from the second-order regression coefficients under the Edwards (2002) parameterization:\nInterpretation rules applied:",
+    "crumbs": [
+      "Methodology and Method",
+      "Method"
+    ]
+  },
+  {
+    "objectID": "mm_method.html#response-surface-analysis",
+    "href": "mm_method.html#response-surface-analysis",
+    "title": "Method",
+    "section": "",
+    "text": "a1 = b1 + b2         slope along the congruence line X = Y\na2 = b3 + b4 + b5    curvature along the congruence line\na3 = b1 - b2         slope along the incongruence line X = -Y\na4 = b3 - b4 + b5    curvature along the incongruence line\n\n\n\n\n\n\n\n\nCondition\nReading\n\n\n\n\na1 &gt; 0, significant\nOutcome rises monotonically as T and E rise together\n\n\na2 &lt; 0\nAn optimum exists along the congruence line — a concave ridge\n\n\na3 different from 0\nThe two directions of misfit are not equivalent\n\n\na4 &lt; 0\nIncongruence imposes a curvature penalty — the P-E Fit signature",
+    "crumbs": [
+      "Methodology and Method",
+      "Method"
+    ]
+  },
+  {
+    "objectID": "mm_method.html#stationary-point-and-its-uncertainty",
+    "href": "mm_method.html#stationary-point-and-its-uncertainty",
+    "title": "Method",
+    "section": "Stationary point and its uncertainty",
+    "text": "Stationary point and its uncertainty\nThe stationary point of the fitted surface is a derived quantity with no closed-form standard error, so it is bootstrapped:\nboot_sp &lt;- boot(\n  data,\n  statistic = function(d, i) {\n    fit &lt;- rsm(Y ~ SO(T, E), data = d[i, ])\n    canonical(fit)$xs\n  },\n  R = 1000\n)\nboot.ci(boot_sp, type = \"perc\")\nReporting the stationary point without an interval would overstate its precision; the interval is what determines whether the located optimum is interpretable at all.",
+    "crumbs": [
+      "Methodology and Method",
+      "Method"
+    ]
+  },
+  {
+    "objectID": "mm_method.html#configurational-analysis",
+    "href": "mm_method.html#configurational-analysis",
+    "title": "Method",
+    "section": "Configurational analysis",
+    "text": "Configurational analysis\n\n\n\n\n\n\n\nParameter\nSetting\n\n\n\n\nOutcome\nUpper quartile of the outcome measure\n\n\nConditions\nT, E, organizational size, training exposure\n\n\nCalibration\nTheoretical anchors at the scale endpoints and midpoint\n\n\nFrequency threshold\n2\n\n\nConsistency cutoff\n0.80, with a 0.85 strict sensitivity re-run\n\n\nBootstrap\n5,000 samples\n\n\n\nCalibration anchors are theoretical rather than sample-derived, and anchor sensitivity is reported rather than assumed away — configurational results are known to move under anchor perturbation, and a solution that survives only at one calibration is not a finding.",
+    "crumbs": [
+      "Methodology and Method",
+      "Method"
+    ]
+  },
+  {
+    "objectID": "mm_method.html#robustness",
+    "href": "mm_method.html#robustness",
+    "title": "Method",
+    "section": "Robustness",
+    "text": "Robustness\n\nHC3 standard errors on all surface models\nBootstrap intervals on derived quantities\nSubgroup estimation across size bands\nMulti-threshold sensitivity on configurational cutoffs\nModel comparison by information criterion alongside explained variance",
+    "crumbs": [
+      "Methodology and Method",
+      "Method"
+    ]
+  },
+  {
+    "objectID": "mm_method.html#revisions-in-progress",
+    "href": "mm_method.html#revisions-in-progress",
+    "title": "Method",
+    "section": "Revisions in progress",
+    "text": "Revisions in progress\nThe four items identified by internal review are being addressed in dependency order: the outcome measure first, then the panel restriction, then the common-method diagnostic, then multiple-comparison correction. The last is re-tabulation rather than re-analysis, which is why it is sequenced last despite being the least effortful.",
+    "crumbs": [
+      "Methodology and Method",
+      "Method"
+    ]
+  },
+  {
+    "objectID": "mm_data_collection_strategy.html",
+    "href": "mm_data_collection_strategy.html",
+    "title": "Data Collection Strategy",
+    "section": "",
+    "text": "Source programme\nData come from the K-Hitech digital transformation training platform, operated jointly by the Korea Institute for Advancement of Technology and the Ministry of Trade, Industry and Energy. The programme targets manufacturing SMEs of 1–300 employees and provides both DT training and smart-factory infrastructure support.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data Collection Strategy"
+    ]
+  },
+  {
+    "objectID": "mm_data_collection_strategy.html#why-this-source",
+    "href": "mm_data_collection_strategy.html#why-this-source",
+    "title": "Data Collection Strategy",
+    "section": "Why this source",
+    "text": "Why this source\nThree properties make it suitable, and one makes it problematic.\nSuitable: it covers four consecutive years, giving temporal spread that a one-shot survey cannot; participation is administratively recorded rather than self-selected into a research study; and the population is exactly the one the research question concerns.\nProblematic: the instrument was designed for programme administration, not for this study. The outcome item was not built to support the measurement claims the analysis places on it. This is the source of the study’s principal open problem.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data Collection Strategy"
+    ]
+  },
+  {
+    "objectID": "mm_data_collection_strategy.html#respondents",
+    "href": "mm_data_collection_strategy.html#respondents",
+    "title": "Data Collection Strategy",
+    "section": "Respondents",
+    "text": "Respondents\nOne to two senior respondents per firm — chief executive, chief information officer, or chief technology officer. Senior respondents give informed answers about firm-level infrastructure and strategy, at the cost of a single perspective per firm and no independent corroboration.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data Collection Strategy"
+    ]
+  },
+  {
+    "objectID": "mm_data_collection_strategy.html#structure",
+    "href": "mm_data_collection_strategy.html#structure",
+    "title": "Data Collection Strategy",
+    "section": "Structure",
+    "text": "Structure\nRepeated cross-section rather than a designed panel. Firms enter as they enrol; some return in later waves, most do not. The resulting structure supports pooled analysis directly and within-firm analysis only on the returning subset.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data Collection Strategy"
+    ]
+  },
+  {
+    "objectID": "mm_data_collection_strategy.html#planned-augmentation",
+    "href": "mm_data_collection_strategy.html#planned-augmentation",
+    "title": "Data Collection Strategy",
+    "section": "Planned augmentation",
+    "text": "Planned augmentation\nThe pending revision requires an outcome measure that does not depend on the same respondent as the predictors. Two routes are under consideration: matching participants to administrative programme records — attendance, module completion, certification — or constructing a change measure from the infrastructure variable on the subset of firms observed in more than one wave. Whether the first route is available depends on institutional data access that has not yet been tested; the second requires no external permission but applies to a smaller sample.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data Collection Strategy"
+    ]
+  },
+  {
+    "objectID": "mm_data.html",
+    "href": "mm_data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Sample\nMissingness was tested before deletion rather than after; the test was consistent with data missing completely at random, which is what licenses listwise deletion here.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#sample",
+    "href": "mm_data.html#sample",
+    "title": "Data",
+    "section": "",
+    "text": "Item\nValue\n\n\n\n\nRaw responses\n282\n\n\nDropped for missing data\n38\n\n\nAnalytic sample\n244\n\n\nDistinct firms\n219\n\n\nFirms appearing in more than one wave\n48 (approximately 22%)\n\n\nObservations from multi-wave firms\n111\n\n\nFirms appearing once\n171\n\n\nWaves\n2022–2025\n\n\nFirm size range\n1–300 employees",
+    "crumbs": [
+      "Methodology and Method",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#composition",
+    "href": "mm_data.html#composition",
+    "title": "Data",
+    "section": "Composition",
+    "text": "Composition\n\n\n\nWave\nN\n\n\n\n\n2022\n32\n\n\n2023\n71\n\n\n2024\n73\n\n\n2025\n68\n\n\n\nSector composition in the first wave: manufacturing 56%, IT 22%, services 22%.\nGeographic distribution: Capital area 38%, Yeongnam 31%, Chungcheong 18%, Honam 13%.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#measures",
+    "href": "mm_data.html#measures",
+    "title": "Data",
+    "section": "Measures",
+    "text": "Measures\n\n\n\n\n\n\n\nConstruct\nOperationalization\n\n\n\n\nTechnology (T)\nDigital transformation awareness, self-reported\n\n\nEnvironment (E)\nSmart-system infrastructure score\n\n\nOrganization (O)\nFirm size, log-transformed\n\n\nTraining exposure\nProgramme participation intensity\n\n\nOutcome\nPost-minus-pre DT competency, single five-point self-report item\n\n\n\nTest–retest reliability on the multi-wave subset: T r=.78, E r=.82.\n\n\n\n\n\n\nImportantMeasurement problem under revision\n\n\n\nThe outcome is a single self-report item answered by the same respondent who supplies the T and E predictors. The study’s own argument is that single self-report items under-capture training effects — which means the instrument that motivates the argument is also the instrument the estimates depend on. Resolving this is the first item of the pending revision, and it changes the dependent variable rather than merely adding a robustness check.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#structural-caveat",
+    "href": "mm_data.html#structural-caveat",
+    "title": "Data",
+    "section": "Structural caveat",
+    "text": "Structural caveat\nThe distinction between 219 firms and 244 observations matters for method selection. Methods that require within-firm variation are identified only on the 48 firms observed more than once. Applying them to the pooled sample and relying on year fixed effects does not recover firm-level identification.",
+    "crumbs": [
+      "Methodology and Method",
+      "Data"
     ]
   },
   {
@@ -163,73 +900,84 @@
     "href": "lr_search_incl_excl.html",
     "title": "Searching and Inclusion & Exclusion",
     "section": "",
-    "text": "Round 1",
+    "text": "Search architecture\nSix Web of Science blocks covering four intersecting domains, plus two intersection queries that isolate the focal set. Blocks are constructed to be individually interpretable — each answers “what exists on this topic” — while the intersections answer “what exists at the gap”.",
     "crumbs": [
       "Literature Review",
       "Searching and Inclusion & Exclusion"
     ]
   },
   {
-    "objectID": "lr_search_incl_excl.html#search-kewwords-and-category",
-    "href": "lr_search_incl_excl.html#search-kewwords-and-category",
+    "objectID": "lr_search_incl_excl.html#search-architecture",
+    "href": "lr_search_incl_excl.html#search-architecture",
     "title": "Searching and Inclusion & Exclusion",
-    "section": "Search kewwords and category",
-    "text": "Search kewwords and category",
+    "section": "",
+    "text": "Block\nFocus\nExpected yield\n\n\n\n\nA\nTOE × digital transformation × SME\n~250\n\n\nB\nTOE × nonlinear or interaction effects\n~80\n\n\nC\nP-E Fit × technology or organization\n~150\n\n\nD\nRSM × congruence × management or IS\n~100\n\n\nE\nDT training effectiveness × SME\n~300\n\n\nF\nTOE × fit or alignment\n~50",
     "crumbs": [
       "Literature Review",
       "Searching and Inclusion & Exclusion"
     ]
   },
   {
-    "objectID": "lr_search_incl_excl.html#keywords-combination",
-    "href": "lr_search_incl_excl.html#keywords-combination",
+    "objectID": "lr_search_incl_excl.html#intersection-queries",
+    "href": "lr_search_incl_excl.html#intersection-queries",
     "title": "Searching and Inclusion & Exclusion",
-    "section": "keywords combination",
-    "text": "keywords combination",
+    "section": "Intersection queries",
+    "text": "Intersection queries\n\n\n\nQuery\nPurpose\nExpected yield\n\n\n\n\nA AND B\nTOE + DT + nonlinear — the focal set\n~20–40\n\n\n(A OR F) AND C\nTOE + fit precedents\n~15–30\n\n\n\nCombined raw yield before deduplication: approximately 880–1,300 records. The small size of the intersection sets is itself the evidence for the gap — if A AND B returned hundreds of records, the study’s premise would not hold.",
     "crumbs": [
       "Literature Review",
       "Searching and Inclusion & Exclusion"
     ]
   },
   {
-    "objectID": "lr_search_incl_excl.html#search-kewwords-and-category-1",
-    "href": "lr_search_incl_excl.html#search-kewwords-and-category-1",
+    "objectID": "lr_search_incl_excl.html#inclusion-criteria",
+    "href": "lr_search_incl_excl.html#inclusion-criteria",
     "title": "Searching and Inclusion & Exclusion",
-    "section": "Search kewwords and category",
-    "text": "Search kewwords and category",
+    "section": "Inclusion criteria",
+    "text": "Inclusion criteria\n\nIndexed in SSCI or SCIE\nWeb of Science category: Management, Information Science, or Business\nDocument type: Article or Review\nPublished 2010–2026, with foundational works from 2000–2009 admitted where they are canonical for a construct",
     "crumbs": [
       "Literature Review",
       "Searching and Inclusion & Exclusion"
     ]
   },
   {
-    "objectID": "lr_search_incl_excl.html#keywords-combination-1",
-    "href": "lr_search_incl_excl.html#keywords-combination-1",
+    "objectID": "lr_search_incl_excl.html#exclusion-criteria",
+    "href": "lr_search_incl_excl.html#exclusion-criteria",
     "title": "Searching and Inclusion & Exclusion",
-    "section": "keywords combination",
-    "text": "keywords combination",
+    "section": "Exclusion criteria",
+    "text": "Exclusion criteria\n\nConference abstracts, editorials, book reviews, and other non-peer-reviewed material\nStudies outside the management, IS, and business domains\nStudies with no empirical or theoretical bearing on technology adoption, congruence, or training effectiveness",
     "crumbs": [
       "Literature Review",
       "Searching and Inclusion & Exclusion"
     ]
   },
   {
-    "objectID": "lr_search_incl_excl.html#search-kewwords-and-category-2",
-    "href": "lr_search_incl_excl.html#search-kewwords-and-category-2",
+    "objectID": "lr_search_incl_excl.html#screening",
+    "href": "lr_search_incl_excl.html#screening",
     "title": "Searching and Inclusion & Exclusion",
-    "section": "Search kewwords and category",
-    "text": "Search kewwords and category",
+    "section": "Screening",
+    "text": "Screening\nScreening follows PRISMA: identification, deduplication, title and abstract screening, full-text assessment, and inclusion, with counts and exclusion reasons recorded at each stage.",
     "crumbs": [
       "Literature Review",
       "Searching and Inclusion & Exclusion"
     ]
   },
   {
-    "objectID": "lr_search_incl_excl.html#keywords-combination-2",
-    "href": "lr_search_incl_excl.html#keywords-combination-2",
+    "objectID": "lr_search_incl_excl.html#synthesis-pipeline",
+    "href": "lr_search_incl_excl.html#synthesis-pipeline",
     "title": "Searching and Inclusion & Exclusion",
-    "section": "keywords combination",
-    "text": "keywords combination",
+    "section": "Synthesis pipeline",
+    "text": "Synthesis pipeline\nRetrieved records are processed through ScholarRAG, a staged review-automation pipeline operating in systematic-review mode with a target corpus of 50–300 papers after screening. The pipeline supports extraction and synthesis; inclusion decisions and interpretation remain manual.",
+    "crumbs": [
+      "Literature Review",
+      "Searching and Inclusion & Exclusion"
+    ]
+  },
+  {
+    "objectID": "lr_search_incl_excl.html#prisma",
+    "href": "lr_search_incl_excl.html#prisma",
+    "title": "Searching and Inclusion & Exclusion",
+    "section": "PRISMA",
+    "text": "PRISMA\nStage-by-stage counts are reported in the manuscript. They are not reproduced here because the corpus is subject to the same revision cycle as the analysis.",
     "crumbs": [
       "Literature Review",
       "Searching and Inclusion & Exclusion"
@@ -240,53 +988,236 @@
     "href": "lr_referencelist.html",
     "title": "Reference List",
     "section": "",
-    "text": "Round 1\nCategory, Classification and Decision Note for Selected Literature in Rounds",
+    "text": "Status\nThe working bibliography is maintained in BibTeX alongside the manuscript and rendered in References. References organized by their role in the model are listed in Model and Key References.",
     "crumbs": [
       "Literature Review",
       "Reference List"
     ]
   },
   {
-    "objectID": "lr_referencelist.html#round-2",
-    "href": "lr_referencelist.html#round-2",
+    "objectID": "lr_referencelist.html#status",
+    "href": "lr_referencelist.html#status",
     "title": "Reference List",
-    "section": "Round 2",
-    "text": "Round 2",
-    "crumbs": [
-      "Literature Review",
-      "Reference List"
-    ]
-  },
-  {
-    "objectID": "lr_referencelist.html#round-3",
-    "href": "lr_referencelist.html#round-3",
-    "title": "Reference List",
-    "section": "Round 3",
-    "text": "Round 3",
-    "crumbs": [
-      "Literature Review",
-      "Reference List"
-    ]
-  },
-  {
-    "objectID": "lr_referencelist.html#additional-during-and-after-writing",
-    "href": "lr_referencelist.html#additional-during-and-after-writing",
-    "title": "Reference List",
-    "section": "Additional (during and after writing)",
-    "text": "Additional (during and after writing)",
-    "crumbs": [
-      "Literature Review",
-      "Reference List"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
     "section": "",
-    "text": "Chae, C. (2024). Introduction to chad (chungil) chae. https://chadchae.github.io",
+    "text": "Category\nState\n\n\n\n\nVerified standard citations\n12 confirmed against source during the 2026-05-04 review\n\n\nRequired additions identified by review\nCommon-method variance standards, RSA reporting standards, panel and DID inference standards, moderation inference, digital transformation definition\n\n\nRecently dated sources\nRequire identifier verification and in-press labelling before submission",
     "crumbs": [
-      "References"
+      "Literature Review",
+      "Reference List"
+    ]
+  },
+  {
+    "objectID": "lr_referencelist.html#verification-policy",
+    "href": "lr_referencelist.html#verification-policy",
+    "title": "Reference List",
+    "section": "Verification policy",
+    "text": "Verification policy\nEvery citation must be verified against the source record before it appears in the manuscript. A plausible-looking reference that has not been checked is treated as absent, not as provisional. Recently published sources are labelled in press until an identifier resolves.",
+    "crumbs": [
+      "Literature Review",
+      "Reference List"
+    ]
+  },
+  {
+    "objectID": "lr_research_problem.html",
+    "href": "lr_research_problem.html",
+    "title": "Research Problem",
+    "section": "",
+    "text": "The problem\nDigital transformation training for small and medium manufacturers is a substantial public investment, and the TOE framework is the standard lens for explaining why some firms convert such investment into capability and others do not. Applied conventionally — as three independent additive predictors — TOE has produced an extensive body of adoption research. It has produced much less that explains training effectiveness, and where the additive specification returns nothing, the usual inference is that the context variables do not matter here.\nThat inference confuses the framework with the model. TOE names three dimensions; it does not require them to combine additively. If the true relationship is one of correspondence between dimensions rather than accumulation across them, an additive model is correctly specified to find nothing, and finding nothing tells us about the estimator rather than the phenomenon.",
+    "crumbs": [
+      "Literature Review",
+      "Research Problem"
+    ]
+  },
+  {
+    "objectID": "lr_research_problem.html#the-gap",
+    "href": "lr_research_problem.html#the-gap",
+    "title": "Research Problem",
+    "section": "The gap",
+    "text": "The gap\nThe literature contains each necessary component separately:\n\nTOE applied to digital transformation in SMEs\nP-E Fit congruence theory with an established polynomial operationalization\nResponse surface methodology as an accepted tool in management and information systems research\nStudies of DT training effectiveness in manufacturing firms\n\nWhat it does not contain is their intersection. No prior study combines the TOE framework, a P-E Fit congruence operationalization, and second-order response surface analysis to explain DT training effectiveness in manufacturing SMEs. The gap is specific and structural rather than a matter of insufficient coverage.",
+    "crumbs": [
+      "Literature Review",
+      "Research Problem"
+    ]
+  },
+  {
+    "objectID": "lr_research_problem.html#the-claim-under-test",
+    "href": "lr_research_problem.html#the-claim-under-test",
+    "title": "Research Problem",
+    "section": "The claim under test",
+    "text": "The claim under test\nThat Technology–Environment congruence, not Technology or Environment level, is the operative mechanism — and that a framework which appears inapplicable under linear specification becomes informative under a congruence specification.",
+    "crumbs": [
+      "Literature Review",
+      "Research Problem"
+    ]
+  },
+  {
+    "objectID": "lr_research_problem.html#what-would-falsify-it",
+    "href": "lr_research_problem.html#what-would-falsify-it",
+    "title": "Research Problem",
+    "section": "What would falsify it",
+    "text": "What would falsify it\nA response surface that shows no curvature penalty for misfit would leave the linear null standing as a substantive result rather than a specification artefact. Equally, if the finding holds only for a self-report outcome and disappears under an objective one, the result is a common-method artefact rather than evidence for congruence. The second of these is an open question in this study rather than a hypothetical — see Questions and Answers.",
+    "crumbs": [
+      "Literature Review",
+      "Research Problem"
+    ]
+  },
+  {
+    "objectID": "lr_model_and_key_references.html",
+    "href": "lr_model_and_key_references.html",
+    "title": "Model and Key References",
+    "section": "",
+    "text": "Framework foundation\nKey references organized by the role they play in the model rather than by topic.",
+    "crumbs": [
+      "Literature Review",
+      "Model and Key References"
+    ]
+  },
+  {
+    "objectID": "lr_model_and_key_references.html#framework-foundation",
+    "href": "lr_model_and_key_references.html#framework-foundation",
+    "title": "Model and Key References",
+    "section": "",
+    "text": "Reference\nContribution\n\n\n\n\nTornatzky & Fleischer (1990)\nOriginal TOE formulation\n\n\nOliveira & Martins (2011)\nSystematic review of TOE applications\n\n\nBaker (2012)\nTOE update and critical assessment",
+    "crumbs": [
+      "Literature Review",
+      "Model and Key References"
+    ]
+  },
+  {
+    "objectID": "lr_model_and_key_references.html#congruence-logic-and-its-estimation",
+    "href": "lr_model_and_key_references.html#congruence-logic-and-its-estimation",
+    "title": "Model and Key References",
+    "section": "Congruence logic and its estimation",
+    "text": "Congruence logic and its estimation\n\n\n\n\n\n\n\nReference\nContribution\n\n\n\n\nEdwards (1994), OBHDP 58\nPolynomial regression as the alternative to difference scores\n\n\nEdwards & Parry (1993), AMJ\nResponse surface analysis canon\n\n\nEdwards (2002), Organizational Research Methods 5(4)\nThe congruence protocol followed here\n\n\nEdwards & Cable (2009), JAP 94(3)\nP-E Fit operationalized through RSA\n\n\nKristof-Brown et al. (2005)\nP-E Fit meta-analysis\n\n\nShanock et al. (2010), JBP\nRSA reporting standards\n\n\nBox & Wilson (1951)\nSecond-order response surface foundations",
+    "crumbs": [
+      "Literature Review",
+      "Model and Key References"
+    ]
+  },
+  {
+    "objectID": "lr_model_and_key_references.html#why-joint-optimization",
+    "href": "lr_model_and_key_references.html#why-joint-optimization",
+    "title": "Model and Key References",
+    "section": "Why joint optimization",
+    "text": "Why joint optimization\n\n\n\nReference\nContribution\n\n\n\n\nTrist & Bamforth (1951), Human Relations\nSociotechnical systems\n\n\nCohen & Levinthal (1990)\nAbsorptive capacity\n\n\nAppelbaum et al. (2000)\nAMO framework",
+    "crumbs": [
+      "Literature Review",
+      "Model and Key References"
+    ]
+  },
+  {
+    "objectID": "lr_model_and_key_references.html#size-effects",
+    "href": "lr_model_and_key_references.html#size-effects",
+    "title": "Model and Key References",
+    "section": "Size effects",
+    "text": "Size effects\n\n\n\nReference\nContribution\n\n\n\n\nAldrich & Auster (1986)\nLiability of smallness\n\n\nHannan & Freeman (1984)\nOrganizational inertia\n\n\nBrewer (1991), PSPB\nOptimal distinctiveness",
+    "crumbs": [
+      "Literature Review",
+      "Model and Key References"
+    ]
+  },
+  {
+    "objectID": "lr_model_and_key_references.html#configurational-analysis",
+    "href": "lr_model_and_key_references.html#configurational-analysis",
+    "title": "Model and Key References",
+    "section": "Configurational analysis",
+    "text": "Configurational analysis\n\n\n\nReference\nContribution\n\n\n\n\nRagin (2008)\nfsQCA canon\n\n\nSchneider & Wagemann (2012)\nStandards of good practice\n\n\nGreckhamer et al. (2018)\nCoverage and consistency benchmarks",
+    "crumbs": [
+      "Literature Review",
+      "Model and Key References"
+    ]
+  },
+  {
+    "objectID": "lr_model_and_key_references.html#measurement-and-inference-standards",
+    "href": "lr_model_and_key_references.html#measurement-and-inference-standards",
+    "title": "Model and Key References",
+    "section": "Measurement and inference standards",
+    "text": "Measurement and inference standards\n\n\n\n\n\n\n\nReference\nContribution\n\n\n\n\nPodsakoff, MacKenzie, Lee & Podsakoff (2003), JAP 88, 879–903\nCommon-method variance standards\n\n\nWilliams, Hartman & Cavazotte (2010), ORM\nUnmeasured latent method factor\n\n\nSpector (2006)\nCritique of CMV folklore\n\n\nHayes (2015; 2017)\nModeration inference\n\n\nWooldridge (2010)\nPanel estimation standards\n\n\nBertrand, Duflo & Mullainathan (2004)\nInference in difference-in-differences",
+    "crumbs": [
+      "Literature Review",
+      "Model and Key References"
+    ]
+  },
+  {
+    "objectID": "lr_model_and_key_references.html#domain-definitions",
+    "href": "lr_model_and_key_references.html#domain-definitions",
+    "title": "Model and Key References",
+    "section": "Domain definitions",
+    "text": "Domain definitions\n\n\n\nReference\nContribution\n\n\n\n\nVial (2019), JSIS 28(2)\nDigital transformation definition\n\n\nWesterman et al. (2011)\nDigital maturity\n\n\nBaldwin & Ford (1988)\nTraining transfer\n\n\n\n\n\n\n\n\n\nNoteCitation verification\n\n\n\nThe 2026-05-04 internal review verified twelve of the standard citations directly and identified further references required by methodological standards but absent from Draft v1 — principally the CMV, RSA-reporting, and panel-inference entries above. Several recently dated sources still require identifier verification and appropriate in-press labelling before submission.",
+    "crumbs": [
+      "Literature Review",
+      "Model and Key References"
+    ]
+  },
+  {
+    "objectID": "lr_quotes_and_paraphrases.html",
+    "href": "lr_quotes_and_paraphrases.html",
+    "title": "Quotes and Paraphrases",
+    "section": "",
+    "text": "Conventions used in the working file\nExtracted passages and paraphrases are held in the project’s literature workspace rather than published here, because the collection is a working artefact that mixes verbatim source text with drafting notes.\nThe purpose of the separation is narrow and practical: once a passage has been through a draft cycle, it becomes difficult to reconstruct whether a sentence was the source’s or the author’s. Keeping the registers apart at capture time is the only reliable point at which that distinction is cheap to maintain.",
+    "crumbs": [
+      "Literature Review",
+      "Quotes and Paraphrases"
+    ]
+  },
+  {
+    "objectID": "lr_quotes_and_paraphrases.html#conventions-used-in-the-working-file",
+    "href": "lr_quotes_and_paraphrases.html#conventions-used-in-the-working-file",
+    "title": "Quotes and Paraphrases",
+    "section": "",
+    "text": "Verbatim text is marked as a quotation with page or section locator and is never edited, including where the source contains errors.\nParaphrases are recorded separately from quotations and carry the same locator, so that the distinction survives into drafting.\nInterpretive commentary is kept in a third register, so that a reader of the file can always tell what the source said from what the author concluded.",
+    "crumbs": [
+      "Literature Review",
+      "Quotes and Paraphrases"
+    ]
+  },
+  {
+    "objectID": "pp_product.html",
+    "href": "pp_product.html",
+    "title": "Products",
+    "section": "",
+    "text": "Manuscript\nThe internal review raised four critical, six major, and ten minor concerns. None is fatal, but together they prevent the central claim from being sustained at its current strength. The first critical item changes the study’s dependent variable, so the remaining items cannot be settled ahead of it.",
+    "crumbs": [
+      "Products"
+    ]
+  },
+  {
+    "objectID": "pp_product.html#manuscript",
+    "href": "pp_product.html#manuscript",
+    "title": "Products",
+    "section": "",
+    "text": "Item\nStatus\n\n\n\n\nDraft v1\nComplete — five chapters, 16,759 words, 2026-05-03\n\n\nInternal peer review\nComplete — 2026-05-04, Major Revision\n\n\nRevision v2\nNot started\n\n\nSubmission\nNot submitted",
+    "crumbs": [
+      "Products"
+    ]
+  },
+  {
+    "objectID": "pp_product.html#publication-plan",
+    "href": "pp_product.html#publication-plan",
+    "title": "Products",
+    "section": "Publication plan",
+    "text": "Publication plan\nThe project is structured as a multi-paper programme, of which the TOE-Fit nonlinear extension is the lead paper and the only one currently drafted. Target journals are ranked by fit with TOE framework extensions, digital transformation context, and mixed quantitative methods, with policy-oriented outlets as a secondary tier. Journals with strict measurement and panel standards are out of reach until the outcome-measure problem is resolved — which is a reason to resolve it rather than a reason to aim lower.\nCover letters to the two highest-ranked targets were written against Draft v1 and will require rewriting, because both lean on the measurement-gap argument that the revision destabilizes.",
+    "crumbs": [
+      "Products"
+    ]
+  },
+  {
+    "objectID": "pp_product.html#disclosure-policy-for-findings",
+    "href": "pp_product.html#disclosure-policy-for-findings",
+    "title": "Products",
+    "section": "Disclosure policy for findings",
+    "text": "Disclosure policy for findings\n\n\n\n\n\n\nImportant\n\n\n\nNumerical results are deliberately not published on this site.\nThe manuscript is unpublished and under revision, and the first item of that revision replaces the dependent variable on which every estimate rests. Publishing coefficients now would put numbers into circulation that are expected to change, in a form that invites citation. They will be released with the published paper.\nWhat is published here is the study’s design, theoretical framework, methodology, and analytical procedure — the parts that are stable and that make the eventual results interpretable.",
+    "crumbs": [
+      "Products"
+    ]
+  },
+  {
+    "objectID": "pp_product.html#data-and-code",
+    "href": "pp_product.html#data-and-code",
+    "title": "Products",
+    "section": "Data and code",
+    "text": "Data and code\nAnalysis code is organized as 22 R projects covering the full pipeline. Analytical outputs — tables and figures — are versioned alongside the manuscript. Neither is publicly released, as the underlying data derive from a government programme and are subject to its terms.",
+    "crumbs": [
+      "Products"
     ]
   }
 ]
